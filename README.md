@@ -6,5 +6,5 @@ the number of pulses defines the alarmtext,
 alarm text is sent to //sms's.
 
 temperature sensor DS18B20:
-keep track of the lowest T,
+keeps track of the lowest T,
 when +2 °C is detected, a sms is sent with Lowest T.
